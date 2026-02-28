@@ -1,18 +1,11 @@
-Here is your **complete, enhanced, research-style README.md** for the topic:
 
-# **Security Monitoring & Incident Response System**
-
-You can copy-paste everything below directly into `README.md`.
-
----
-
-# 🔐 Security Monitoring & Incident Response System
+#  Security Monitoring & Incident Response System
 
 ## Real-Time Detection, Logging & SOC Simulation Platform
 
 ---
 
-## 📌 Abstract
+##  Abstract
 
 The **Security Monitoring & Incident Response System (SMIRS)** is a web-based Security Operations Center (SOC) simulation platform built using **Node.js, Express.js, SQLite, bcrypt, and express-session**.
 
@@ -29,7 +22,7 @@ This project demonstrates how monitoring logic, detection mechanisms, incident l
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 ✔ Implement secure user authentication
 ✔ Monitor login activities in real time
@@ -43,7 +36,7 @@ This project demonstrates how monitoring logic, detection mechanisms, incident l
 
 ---
 
-# 🏗 System Architecture
+#  System Architecture
 
 User Interface (Browser)
 ↓
@@ -359,7 +352,7 @@ Capture page
 
 
 
-## Screenshot 6 — Database View
+## Screenshot 5 — Database View
 
 Open `soc.db` in DB Browser for SQLite
 Capture logs table
